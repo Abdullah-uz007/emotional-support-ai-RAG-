@@ -1,3 +1,7 @@
+
+---
+
+````markdown
 # 🩺 RAG-Powered AI Health Assistant
 
 ![Project Banner](https://via.placeholder.com/1200x300.png?text=RAG+AI+Health+Assistant)
@@ -121,6 +125,6 @@ This AI Health Assistant is **not a substitute for professional medical advice**
 
 ✨ Built with ❤️ for AI-powered health guidance
 
+```
 
-Do you want me to make that version too?
 ```
