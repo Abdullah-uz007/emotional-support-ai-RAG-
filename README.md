@@ -1,6 +1,3 @@
-
----
-
 ````markdown
 # 🩺 RAG-Powered AI Health Assistant
 
