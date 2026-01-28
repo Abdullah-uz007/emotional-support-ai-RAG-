@@ -1,0 +1,55 @@
+# =====================
+# Python
+# =====================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+venv311/
+.env
+.env.*
+
+# =====================
+# Streamlit
+# =====================
+.streamlit/secrets.toml
+.streamlit/.cache/
+
+# =====================
+# Vector stores / RAG artifacts
+# (these are generated, not source code)
+# =====================
+vectorstore/
+
+chroma/
+chromadb/
+# =====================
+# Logs & runtime files
+# =====================
+*.log
+
+# =====================
+# Testing / tooling
+# =====================
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# =====================
+# OS / Editor junk
+# =====================
+.DS_Store
+Thumbs.db
+
+# VS Code (optional – keep if you share settings)
+.vscode/
+
+# =====================
+# Docker
+# =====================
+*.pid
