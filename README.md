@@ -1,9 +1,4 @@
-Got you. Here’s a **clean, professional, error-free `README.md`** that will render perfectly on GitHub and fits your **Emotional / Health RAG AI** project 🔥
-You can **copy-paste this directly**.
 
----
-
-```md
 <p align="center">
   <img src="assets/banner.png" alt="RAG-Powered AI Health Assistant" width="100%" />
 </p>
