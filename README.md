@@ -122,5 +122,3 @@ This AI Health Assistant is **not a substitute for professional medical advice**
 ✨ Built with ❤️ for AI-powered health guidance
 
 
-Do you want me to make that version too?
-```
