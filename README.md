@@ -1,4 +1,3 @@
-````markdown
 # 🩺 RAG-Powered AI Health Assistant
 
 ![Project Banner](https://via.placeholder.com/1200x300.png?text=RAG+AI+Health+Assistant)
